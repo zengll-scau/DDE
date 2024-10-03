@@ -7,10 +7,10 @@ The main code for running the DDE framework is located in the file Main_DDE.py. 
 
 # Input Data
 This study selects emission allowances of Hubei (HBEA), Guangdong (GDEA), Shanghai (SHEA) and Beijing (BJEA) for analysis. Therefore, the input data for the framework includes four datasets:
-HBEA_Input
-GDEA_Input
-SHEA_Input
-BJEA_Input
+  HBEA_Input,
+  GDEA_Input,
+  SHEA_Input,
+  BJEA_Input,
 Currently, we are showcasing the data from the HBEA_Input dataset.
 
 # Future Updates
